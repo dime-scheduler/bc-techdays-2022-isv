@@ -1,22 +1,21 @@
-<p align="center">
-  <img src="./assets/dimescheduler.png" alt="reveal.js" width="400">
-  <br><br>
-<img src="https://img.shields.io/badge/Webinar-2022.1.0-green" />
+<div align="center">
+  <img src="https://cdn.dimescheduler.com/dime-scheduler/Dime.Scheduler-Black.svg" height=75>
+  <img src="https://cdn.dimescheduler.com/dime-scheduler/screenshots/ds-screen-3.png" height=250 />
+  <br>
+   <br>
+<img src="https://img.shields.io/badge/BC Tech Days 2022-green" />
 
-This is the presentation for the "What's new in Dime.Scheduler" webinar on Thursday, April 7 2022.
 
-# Get started
+  </div>
 
-Run `yarn` in the root folder to install the package and run `yarn start` to start the presentation.
+## About 
 
-# Documentation
+This is the slide deck for Dime Software's session at BC Tech Days 2022.
 
-This is an implementation of reveal.js, an open source HTML presentation framework. It's a tool that enables anyone with a web browser to create fully-featured and beautiful presentations for free.
 
-The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
+## Get started
 
-# License
+Run `yarn` in the root folder to install the package and run `yarn start` to start the presentation. A GitHub action is active on the master branch that deploys a version on GitHub pages:
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+👉 [Take me to the presentation!](https://dime-scheduler.github.io/bc-techdays-2022-isv/)
 
-Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
