@@ -1,6 +1,6 @@
 /*!
-* reveal.js 4.0.2
-* https://revealjs.com
+* reveal.js 1.0.0
+* https://dimescheduler.com
 * MIT licensed
 *
 * Copyright (C) 2020 Hakim El Hattab, https://hakim.se
