@@ -1,9 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "4.0.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "bc-techdays-isv-session-dime-software",
+  "version": "1.0.0",
+  "description": "Next-generation scheduling capabilities in Business Central",
+  "homepage": "https://dimescheduler.com",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
@@ -13,22 +12,17 @@
     "build": "gulp"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Hendrik Bulens",
+    "email": "hendrik@dime-software.com",
+    "web": "https://www.dime-software.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/dime-scheduler/bc-techdays-2022-isv.git"
   },
   "engines": {
     "node": ">=10.0.0"
   },
-  "keywords": [
-    "reveal",
-    "slides",
-    "presentation"
-  ],
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
